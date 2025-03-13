@@ -1,0 +1,29 @@
+# Arquivos de ambiente virtual
+venv/
+.env/
+*.venv
+
+# Arquivos de dependências
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dependências instaladas
+requirements.txt
+
+# Arquivos de cache do pip
+pip-log.txt
+pip-delete-this-directory.txt
